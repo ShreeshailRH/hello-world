@@ -1,1 +1,22 @@
-Home/my-go-project/go-movies-CRUD
+# 🚌 Bus Booking System (Golang + MySQL)
+
+A simple REST API for bus ticket booking built with **Go (Golang)**, **MySQL**, and **Gorilla Mux**.  
+Supports CRUD operations: Create, Read, Update, Delete bookings.
+
+---
+
+## ⚙️ Features
+- Add new booking
+- View all bookings
+- Get booking by ID
+- Update booking
+- Delete booking
+
+---
+
+## 🚀 Tech Stack
+- Go (net/http, Gorilla Mux)
+- MySQL
+- JSON-based REST API
+
+---
